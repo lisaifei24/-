@@ -24,8 +24,10 @@
 
 4.Windows 需以管理员身份运行（部分系统权限要求）
 
-📦 安装依赖
+## 📦 安装依赖
 
-```pip install pyautogui PyQt5 keyboard```
-
-注：keyboard 用于全局热键监听（Esc 停止），Linux/macOS 可能需额外权限。
+```
+pip install pyautogui PyQt5 keyboard
+```
+---
+**注：keyboard 用于全局热键监听（Esc 停止），Linux/macOS 可能需额外权限。**
